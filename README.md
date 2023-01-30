@@ -1,5 +1,3 @@
-# Portf-lio-do-zero
-Nesse vídeo eu ensino a criar um site portfólio do zero, usando HTML, CSS e JavaScript (Jquery).
+# Portfolio Lucas Doti Souza
 
-
-![](image/Capa.png)
+Nesse projeto você vai encontrar o meu protifolio, com algumas experiencias, contatos, curso e informações.
